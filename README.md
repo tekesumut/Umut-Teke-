@@ -12,15 +12,11 @@
 ## 🚀 Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-68217A?style=for-the-badge&logo=windows&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-9F4F4F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
@@ -34,14 +30,13 @@
 ## 📂 Featured Projects
 | Project | Tech | Summary |
 |---------|------|---------|
-| **AIHear Autonomous Audiometer** | C#, WPF, Signal Processing | Medical‑grade autonomous hearing test platform. |
+| **AIHear Autonomous Audiometer** |-| Medical‑grade autonomous hearing test platform. |
 | **Personel Takip Sistemi** | MicroPython, Raspberry Pi Pico | RFID‑based attendance system writing to SD card. |
 | **E‑Kan** | Java, Python, Firebase | Blood donor/recipient social responsibility app. |
 | **ASKIDA** | Android (Java), Firebase | Donation platform for food, pet supplies & medicine. |
 | **Murder Suspect** | Android (Java) | Text‑based detective game with realistic evidence. |
 | **Smart Luggage Scale** | Java, Bluetooth | Displays luggage weight via Bluetooth sensor. |
 | **Association App** | React Native | Member management & daily task tracking. |
-| **Autonom AudioMeter Project** | - | - |
 | **Accident Detection App** | React Native, Java, Firebase | Detects and analyses road accidents for safer driving. |
 
 ## 🌏 Languages
