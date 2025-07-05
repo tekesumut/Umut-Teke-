@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Umut Osman Tekeş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  Software Developer • Full‑Stack • Lifelong Learner  <br/>
-  <em>Innovating at <strong>AiHear Technology A.Ş.</strong> — autonomous audiometry meets code</em>
+  Software Developer • Full‑Stack • <br/>
+
 </p>
 
 ## 💫 About Me
@@ -41,6 +41,7 @@
 | **Murder Suspect** | Android (Java) | Text‑based detective game with realistic evidence. |
 | **Smart Luggage Scale** | Java, Bluetooth | Displays luggage weight via Bluetooth sensor. |
 | **Association App** | React Native | Member management & daily task tracking. |
+| **Autonom AudioMeter Project** | - | - |
 | **Accident Detection App** | React Native, Java, Firebase | Detects and analyses road accidents for safer driving. |
 
 ## 🌏 Languages
